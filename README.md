@@ -24,3 +24,4 @@ The app has so far been built by novice Android developers. As a result, the cod
 The app is currently in the Alpha testing phase with IIT Bhilai with a limited no. of users (mostly coordinators), You can access the app : 
 
 Once the app is fully tested and functional in IIT Bhilai institute, we intend to approach other IITs and IIMs where NSO activities take place and present this app idea. 
+# Android_Study_Jams_IITBhilai
