@@ -24,4 +24,11 @@ The app has so far been built by novice Android developers. As a result, the cod
 The app is currently in the Alpha testing phase with IIT Bhilai with a limited no. of users (mostly coordinators), You can access the app : https://github.com/ShivamMalpani/Android_Study_Jams_IITBhilai
 
 Once the app is fully tested and functional in IIT Bhilai institute, we intend to approach other IITs and IIMs where NSO activities take place and present this app idea. 
-# Android_Study_Jams_IITBhilai
+
+Screenshots of application:
+On first screen we can create new user and update data regarding number of hours of all users. On second screen we have to input the number of credits registered for given semester.
+
+![Screen_1](https://user-images.githubusercontent.com/86108827/148745054-80154c92-ba49-41d8-8b63-2a9cee3b0213.jpg)![Screen1_update](https://user-images.githubusercontent.com/86108827/148745062-2e32d577-625e-47a3-8d23-6a16305dbc4b.jpg)![Screen_2](https://user-images.githubusercontent.com/86108827/148745144-15574869-9678-43a5-bf6a-f83303322d0c.jpg)![Screen_2_update](https://user-images.githubusercontent.com/86108827/148745148-fabee188-b116-44a3-a9a6-2f044f58ef39.jpg)
+
+
+
