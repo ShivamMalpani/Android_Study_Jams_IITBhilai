@@ -21,7 +21,7 @@ LiveData & Room Database : We are also using LiveData to update & observe any ch
 
 Further development:
 The app has so far been built by novice Android developers. As a result, the code is not totally optimised. So the next step is to involve senior developer in this project for guidance. Also we have push the application to Firebase and give writing access to only coordinators and reading access to all the students.
-The app is currently in the Alpha testing phase with IIT Bhilai with a limited no. of users (mostly coordinators), You can access the app : 
+The app is currently in the Alpha testing phase with IIT Bhilai with a limited no. of users (mostly coordinators), You can access the app : https://github.com/ShivamMalpani/Android_Study_Jams_IITBhilai
 
 Once the app is fully tested and functional in IIT Bhilai institute, we intend to approach other IITs and IIMs where NSO activities take place and present this app idea. 
 # Android_Study_Jams_IITBhilai
